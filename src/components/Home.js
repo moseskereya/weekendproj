@@ -3,6 +3,7 @@ import Nav from "./Nav"
 import Banner from './Banner'
 import Recipe from "./Recipe"
 import About from '../About'
+import Footer from '../Footer'
 
 function Home() {
     return (
@@ -10,7 +11,8 @@ function Home() {
              <Nav />
              <Banner />
              <About/>
-             <Recipe/>
+            <Recipe />
+            <Footer/>
         </div>
     )
 }

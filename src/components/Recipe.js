@@ -38,7 +38,7 @@ class Recipe extends Component {
                             </div>
                             <div className="content2">
                                 <p>{recipe.description}</p>
-                                <a href={recipe.link}>Read More</a>
+                                <a href={recipe.link} className="external">Read More</a>
                             </div>
                         </div>
                         
