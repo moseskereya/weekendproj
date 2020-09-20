@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3b4fc80c54cdfcc796bf7ab315705026",
+    "revision": "1696d4d137ae1c0344656a178445a063",
     "url": "/weekendproj/index.html"
   },
   {
-    "revision": "9b58e3c2108a55cea4f8",
-    "url": "/weekendproj/static/css/main.f1816793.chunk.css"
+    "revision": "85f90e5d3ff820dd3416",
+    "url": "/weekendproj/static/css/main.3f27f3d7.chunk.css"
   },
   {
     "revision": "897fb1fc02204b468db5",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/weekendproj/static/js/2.0569a911.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9b58e3c2108a55cea4f8",
+    "revision": "85f90e5d3ff820dd3416",
     "url": "/weekendproj/static/js/main.0286f4f5.chunk.js"
   },
   {
