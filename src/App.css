@@ -247,11 +247,29 @@ justify-items: center;
         max-width: 100%;
         top: 0;
     }
+     .images {
+         flex-direction: column;
+     }
+
       .images img {
-          max-width: 50%;
-          margin: 0 1px;
+          max-width: 100%;
+          margin: 10px;
       }
 }
+
+@media screen and (max-width:300px) {
+    .moses2::after,
+    .moses2::before {
+        max-width: 100%;
+        top: 0;
+    }
+
+   
+}
+
+
+
+
 .footer{
     display: flex;
     justify-content: space-around;
