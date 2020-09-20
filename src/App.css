@@ -232,6 +232,13 @@ justify-items: center;
     .images img{
         max-width: 45%;
     }
+    .banner-item h3 {
+        font-size: 5ex;
+    }
+    .about h3 {
+        text-align: center;
+        font-size: 8ex;
+    }
 }
 
 @media screen and (max-width: 500px) {
