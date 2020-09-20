@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/weekendproj/static/css/main.f1816793.chunk.css",
+    "main.js": "/weekendproj/static/js/main.0286f4f5.chunk.js",
+    "main.js.map": "/weekendproj/static/js/main.0286f4f5.chunk.js.map",
+    "runtime-main.js": "/weekendproj/static/js/runtime-main.c9cdaeff.js",
+    "runtime-main.js.map": "/weekendproj/static/js/runtime-main.c9cdaeff.js.map",
+    "static/js/2.0569a911.chunk.js": "/weekendproj/static/js/2.0569a911.chunk.js",
+    "static/js/2.0569a911.chunk.js.map": "/weekendproj/static/js/2.0569a911.chunk.js.map",
+    "index.html": "/weekendproj/index.html",
+    "precache-manifest.6765cafdc751c9367b963379ea23acef.js": "/weekendproj/precache-manifest.6765cafdc751c9367b963379ea23acef.js",
+    "service-worker.js": "/weekendproj/service-worker.js",
+    "static/css/main.f1816793.chunk.css.map": "/weekendproj/static/css/main.f1816793.chunk.css.map",
+    "static/js/2.0569a911.chunk.js.LICENSE.txt": "/weekendproj/static/js/2.0569a911.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/weekendproj/static/media/logo.9808a01e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9cdaeff.js",
+    "static/js/2.0569a911.chunk.js",
+    "static/css/main.f1816793.chunk.css",
+    "static/js/main.0286f4f5.chunk.js"
+  ]
+}
